@@ -7,7 +7,9 @@ export default {
       colors: {
         cyan: "#E9F7FF",
         red: "#FFDBD4",
-        yellow: "#FFF3CA"
+        yellow: "#FFF3CA",
+        black: "#292930",
+        white: "#FFFFFF"
       }
     },
   },

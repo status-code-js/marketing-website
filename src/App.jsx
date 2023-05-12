@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar.jsx";
 
 const App = () => {
     return (
-        <div className="bg-gradient-to-r from-cyan to-red w-full overflow-hidden">
+        <div className="bg-gradient-to-r from-cyan to-red">
             <div className={`${styles.paddingX}`}>
                 <div className={`${styles.boxWidth}`}>
                     <Navbar />

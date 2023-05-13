@@ -9,7 +9,11 @@ export default {
         red: "#FFDBD4",
         yellow: "#FFF3CA",
         black: "#292930",
-        white: "#FFFFFF"
+        white: "#FFFFFF",
+        blue: "#5956E8"
+      },
+      width: {
+        '620': '620px'
       }
     },
   },

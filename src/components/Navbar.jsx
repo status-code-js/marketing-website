@@ -12,7 +12,9 @@ const Navbar = () => {
                 <ul className="flex gap-x-10">
                     {navLinks.map((link, index) => (
                         <li key={link.id}>
-                            <a href={`#${link.id}`}>{link.title}</a>
+                            <a href={`#${link.id}`} className="nav-link">
+                                {link.title}
+                            </a>
                         </li>
                     ))}
                 </ul>

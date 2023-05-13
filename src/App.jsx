@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './style'
 import Navbar from "./components/Navbar.jsx";
+import Hero from "./components/Hero.jsx";
 
 const App = () => {
     return (
@@ -8,6 +9,7 @@ const App = () => {
             <div className={`${styles.paddingX}`}>
                 <div className={`${styles.boxWidth}`}>
                     <Navbar />
+                    <Hero />
                 </div>
             </div>
         </div>

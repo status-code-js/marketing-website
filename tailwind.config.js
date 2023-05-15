@@ -18,7 +18,7 @@ export default {
         green: "#4FE5D2"
       },
       width: {
-        '620': '620px'
+        '480': '480px'
       }
     },
   },

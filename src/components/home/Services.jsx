@@ -1,6 +1,6 @@
 import React from 'react';
-import Button from "./Button.jsx";
-import styles from "../style.js";
+import Button from "../common/Button.jsx";
+import styles from "../../style.js";
 
 const Services = () => {
     return (

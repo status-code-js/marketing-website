@@ -1,15 +1,23 @@
 import React from 'react';
-import styles from './style'
-import Navbar from "./components/Navbar.jsx";
-import Hero from "./components/Hero.jsx";
-import Services from "./components/Services.jsx";
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import AboutPage from "./components/pages/AboutPage.jsx";
+import Home from "./components/home/Home.jsx";
+import Navbar from "./components/home/Navbar.jsx";
+import ServicesPage from "./components/pages/ServicesPage.jsx";
+import BlogPage from "./components/pages/BlogPage.jsx";
 
 const App = () => {
     return (
         <div className="bg-gradient-to-r from-cyan to-red">
-                    <Navbar />
-                    <Hero />
-                    <Services />
+            <Router>
+                <Navbar />
+                <Routes>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/about" element={<AboutPage />} />
+                    <Route path="/services" element={<ServicesPage />} />
+                    <Route path="/blog" element={<BlogPage />} />
+                </Routes>
+            </Router>
         </div>
     );
 };

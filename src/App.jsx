@@ -4,7 +4,7 @@ import AboutPage from "./components/pages/AboutPage.jsx";
 import Home from "./components/home/Home.jsx";
 import Navbar from "./components/home/Navbar.jsx";
 import ServicesPage from "./components/pages/ServicesPage.jsx";
-import BlogPage from "./components/pages/BlogPage.jsx";
+import PricingPage from "./components/pages/PricingPage.jsx";
 
 const App = () => {
     return (
@@ -15,7 +15,7 @@ const App = () => {
                     <Route path="/" element={<Home />} />
                     <Route path="/about" element={<AboutPage />} />
                     <Route path="/services" element={<ServicesPage />} />
-                    <Route path="/blog" element={<BlogPage />} />
+                    <Route path="/pricing" element={<PricingPage />} />
                 </Routes>
             </Router>
         </div>

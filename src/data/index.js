@@ -6,6 +6,6 @@ export const navLinks = [
         title: "Services"
     },
     {
-        title: "Blog"
+        title: "Pricing"
     }
 ]

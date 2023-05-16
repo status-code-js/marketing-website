@@ -15,6 +15,10 @@ export default {
         grey2: "#424245",
         grey3: "#36363E",
         grey4: "#292930",
+        grey5: "#F7F7F7",
+        grey6: "#E2E2E2",
+        grey7: "#D3D3D3",
+        grey8: "#555555",
         green: "#4FE5D2"
       },
       width: {

@@ -10,7 +10,7 @@ const Services = () => {
                     <div className="py-40">
                         <div className="flex justify-between items-center">
                             <div>
-                                <span className="text-base text-blue opacity-70 font-medium tracking-widest uppercase">Services</span>
+                                <span className="text-base text-blue font-medium tracking-widest uppercase">Services</span>
                                 <h2 className="max-w-2xl text-5xl text-white font-semibold pt-7">High-impact services to take your business to the next level</h2>
                             </div>
                             <div>

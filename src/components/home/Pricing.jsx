@@ -11,7 +11,7 @@ const Pricing = () => {
                         <div className="flex flex-column justify-center text-center items-center">
                             <div className="max-w-2xl">
                                 <span className="text-base text-blue opacity-70 font-medium tracking-widest uppercase">Pricing</span>
-                                <h2 className="max-w-2xl text-5xl text-black font-semibold pt-7">Transparent Pricing That Fits Your Budget</h2>
+                                <h2 className="max-w-2xl text-5xl text-black font-semibold pt-7">Transparent pricing that fits your budget</h2>
                                 <p className="pt-10 text-lg">We offer flexible pricing plans tailored to your specific needs, ensuring that you only pay for the services you require. Whether you're a startup on a tight budget or an established enterprise looking for a comprehensive marketing solution, our pricing options are designed to accommodate your unique requirements. With our transparent pricing model, you can confidently invest in our services, knowing that you're getting the best value for your money. </p>
                             </div>
                         </div>

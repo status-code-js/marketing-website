@@ -23,6 +23,9 @@ export default {
       },
       width: {
         '480': '480px'
+      },
+      maxWidth: {
+        '415': '415px'
       }
     },
   },

@@ -12,7 +12,7 @@ const Hero = () => {
                             <span className="text-base text-blue font-medium tracking-widest uppercase">Agency</span>
                             <h1 className="max-w-3xl text-7xl font-extrabold pt-7">A fully integrated digital <span className="text-blue">marketing</span> agency</h1>
                             <p className="max-w-xl pt-8 pb-8 text-lg">We are a fully integrated digital marketing agency that empowers your digital presence, unleashes your brand's potential, and fully realizes your digital marketing goals with our innovative solutions.</p>
-                            <Button text="Get Started"/>
+                            <Button text="Get Started" className="py-4 px-8"/>
                         </div>
                      </div>
                     <div>

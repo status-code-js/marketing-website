@@ -24,7 +24,7 @@ const Navbar = () => {
                                 </li>
                             ))}
                         </ul>
-                        <Button text="Get Started"/>
+                        <Button text="Get Started" className="py-4 px-8" />
                     </div>
                 </div>
             </div>

@@ -4,6 +4,7 @@ import Services from "./Services.jsx";
 import About from "./About.jsx";
 import Pricing from "./Pricing.jsx";
 import Testimonials from "./Testimonials.jsx";
+import Footer from "./Footer.jsx";
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <About />
             <Pricing />
             <Testimonials />
+            <Footer />
         </div>
     );
 };

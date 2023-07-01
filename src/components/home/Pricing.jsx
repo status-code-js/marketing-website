@@ -52,7 +52,7 @@ const Pricing = () => {
                                             <p className="text-lg font-normal">Funnel Optimization</p>
                                         </div>
                                     </div>
-                                        <Button className="bg-black w-full" textColor="white" text="Buy Now"/>
+                                        <Button className="bg-black w-full py-4 px-8" textColor="white" text="Buy Now"/>
                                 </div>
                             </div>
                             <div className="bg-black text-white max-w-sm rounded-lg border border-grey6">
@@ -91,7 +91,7 @@ const Pricing = () => {
                                             <p className="text-lg font-normal">Funnel Optimization</p>
                                         </div>
                                     </div>
-                                    <Button className="bg-white w-full" textColor="black" text="Buy Now"/>
+                                    <Button className="bg-white w-full py-4 px-8" textColor="black" text="Buy Now"/>
                                 </div>
                             </div>
                             <div className="bg-grey5 max-w-sm rounded-lg border border-grey6">
@@ -130,7 +130,7 @@ const Pricing = () => {
                                             <p className="text-lg font-normal">Funnel Optimization</p>
                                         </div>
                                     </div>
-                                    <Button className="bg-black w-full" textColor="white" text="Buy Now"/>
+                                    <Button className="bg-black w-full py-4 px-8" textColor="white" text="Buy Now"/>
                                 </div>
                             </div>
                         </div>

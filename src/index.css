@@ -31,3 +31,15 @@
 .nav-link:hover::after {
     opacity: 1;
 }
+
+.footer-link {
+    color: white;
+}
+
+.copyright-link {
+    color: #555555;
+}
+
+.copyright-link:hover {
+    opacity: 0.8;
+}

@@ -43,3 +43,10 @@
 .copyright-link:hover {
     opacity: 0.8;
 }
+
+
+@media (min-width: 1024px) {
+    .md\:hidden {
+        display: none !important;
+    }
+}

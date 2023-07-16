@@ -17,7 +17,7 @@ const Footer = () => {
                             </Link>
                             </div>
                     </div>
-                    <div className="flex justify-between items-end pt-7">
+                    <div className="flex 2md:flex-wrap 2md:gap-8 justify-between items-end pt-7">
                         <div>
                             <ul className="flex gap-x-10">
                                 {navLinks.map((link, index) => (
@@ -31,7 +31,7 @@ const Footer = () => {
                         </div>
                         <div>
                             <p>Get the freshest news from us</p>
-                            <div className="flex items-center gap-3 pt-4">
+                            <div className="flex sm:flex-wrap items-center gap-3 pt-4">
                                 <div className="">
                                     <input placeholder="Your email address" className="rounded-md py-2 pr-8 pl-2"/>
                                 </div>
@@ -40,7 +40,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <div className="w-full h-px bg-grey8 mt-16 mb-8"></div>
-                    <div className="flex items-center justify-between">
+                    <div className="flex 2md:flex-wrap 2md:gap-8 items-center justify-between">
                         <div>
                             <ul className="flex gap-x-10">
                                 {footerLinks.map((link, index) => (

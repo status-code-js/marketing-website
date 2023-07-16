@@ -3,6 +3,14 @@ export default {
   content: ["./index.html", "./src/**/*.{js,jsx}"],
   mode: "jit",
   theme: {
+    screens: {
+      'sm': {'max': '640px'},
+      'md': {'min': '768px', 'max': '1023px'},
+      'lg': {'max': '1120px'},
+      'xl': {'max': '1280px'},
+      '2xl': {'max': '1536px'},
+      '2md': {'max': '767px'},
+    },
     extend: {
       colors: {
         cyan: "#E9F7FF",
@@ -22,10 +30,15 @@ export default {
         green: "#4FE5D2"
       },
       width: {
-        '480': '480px'
+        '480': '480px',
+        '520': '520px',
+        '620': '620px',
       },
       maxWidth: {
         '415': '415px'
+      },
+      height: {
+        'screen/70': '70vh',
       }
     },
   },

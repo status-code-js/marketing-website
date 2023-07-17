@@ -10,7 +10,7 @@ const About = () => {
                     <div className="py-40 xl:py-20">
                         <div className="flex xl:flex-col xl:items-center xl:justify-center justify-between items-top gap-x-11">
                             <div>
-                                <img src="/assets/about.svg" alt="About Image" className="w-480" />
+                                <img src="assets/about.svg" alt="About Image" className="w-480" />
                             </div>
                             <div className="max-w-2xl xl:text-center">
                                 <span className="text-base text-blue font-medium tracking-widest uppercase">About</span>

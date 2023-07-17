@@ -67,7 +67,7 @@ const Testimonials = () => {
                                     <div className="bg-gradient-to-r from-cyan to-red max-w-sm rounded-lg max-w-xl lg:max-w-md 2md:max-w-sm">
                                         <div className="p-5">
                                             <div className="flex flex-col bg-white p-10 sm:p-4">
-                                                <img src="/assets/quote.svg" alt="Testimonial Icon" className="w-12"/>
+                                                <img src="assets/quote.svg" alt="Testimonial Icon" className="w-12"/>
                                                 <p className="text-lg text-grey8 py-5">{testimonials[currentIndex].quote}</p>
                                             </div>
                                             <div className="flex items-center gap-x-4 pt-4">

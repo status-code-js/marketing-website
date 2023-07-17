@@ -20,7 +20,7 @@ const Pricing = () => {
                             <div className="bg-grey5 max-w-sm rounded-lg border border-grey6">
                                 <div className="p-10 sm:p-6">
                                     <div className="flex gap-x-8 items-center">
-                                    <img src="/assets/Pricing-1.svg" alt="Pricing" className="w-12 sm:w-8"/>
+                                    <img src="assets/Pricing-1.svg" alt="Pricing" className="w-12 sm:w-8"/>
                                         <div className="flex-column">
                                             <h4 className="text-2xl font-bold">Starter</h4>
                                             <p className="pt-2 text-grey8 text-lg"><span className="text-5xl sm:text-4xl text-black font-black">$29</span> /Per Month</p>
@@ -29,27 +29,27 @@ const Pricing = () => {
                                     <div className="w-full h-px bg-grey7 my-7"></div>
                                     <div className="text-black pb-4 sm:pb-2">
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Social Media Marketing</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Paid Advertising</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                        <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                        <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                         <p className="text-lg sm:text-base font-normal">SEO Optimization</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Content Marketing</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/cross.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/cross.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Advanced Analytics</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/cross.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/cross.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Funnel Optimization</p>
                                         </div>
                                     </div>
@@ -59,7 +59,7 @@ const Pricing = () => {
                             <div className="bg-black text-white max-w-sm rounded-lg border border-grey6">
                                 <div className="p-10 sm:p-6">
                                     <div className="flex gap-x-8 items-center">
-                                        <img src="/assets/Pricing-2.svg" alt="Pricing" className="w-12 sm:w-8"/>
+                                        <img src="assets/Pricing-2.svg" alt="Pricing" className="w-12 sm:w-8"/>
                                         <div className="flex-column">
                                             <h4 className="text-2xl font-bold">Starter</h4>
                                             <p className="pt-2 text-white text-lg"><span className="text-5xl sm:text-4xl text-white font-black">$49</span> /Per Month</p>
@@ -68,27 +68,27 @@ const Pricing = () => {
                                     <div className="w-full h-px bg-grey7 my-7"></div>
                                     <div className="pb-4 sm:pb-2">
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Social Media Marketing</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Paid Advertising</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">SEO Optimization</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Content Marketing</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Advanced Analytics</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/cross.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/cross.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Funnel Optimization</p>
                                         </div>
                                     </div>
@@ -98,7 +98,7 @@ const Pricing = () => {
                             <div className="bg-grey5 max-w-sm rounded-lg border border-grey6">
                                 <div className="p-10 sm:p-6">
                                     <div className="flex gap-x-8 items-center">
-                                        <img src="/assets/Pricing-3.svg" alt="Pricing" className="w-12 sm:w-8"/>
+                                        <img src="assets/Pricing-3.svg" alt="Pricing" className="w-12 sm:w-8"/>
                                         <div className="flex-column">
                                             <h4 className="text-2xl font-bold">Starter</h4>
                                             <p className="pt-2 text-grey8 text-lg"><span className="text-5xl sm:text-4xl text-black font-black">$99</span> /Per Month</p>
@@ -107,27 +107,27 @@ const Pricing = () => {
                                     <div className="w-full h-px bg-grey7 my-7"></div>
                                     <div className="text-black pb-4 sm:pb-2">
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Social Media Marketing</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Paid Advertising</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">SEO Optimization</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Content Marketing</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Advanced Analytics</p>
                                         </div>
                                         <div className="flex items-center gap-x-2.5 pb-4 sm:pb-2">
-                                            <img src="/assets/tick.svg" alt="Tick Icon" className="w-4" />
+                                            <img src="assets/tick.svg" alt="Tick Icon" className="w-4" />
                                             <p className="text-lg sm:text-base font-normal">Funnel Optimization</p>
                                         </div>
                                     </div>

@@ -25,7 +25,7 @@ const Navbar = () => {
                 <div className={`${styles.boxWidth}`}>
                     <div className="flex justify-between items-center py-6">
                         <Link to="/">
-                            <img src="/assets/logo.svg" alt="Logo" className="w-[70px] h-[70px]" />
+                            <img src="assets/logo.svg" alt="Logo" className="w-[70px] h-[70px]" />
                         </Link>
                         <div className="flex items-center gap-x-16">
                             <ul className="flex gap-x-10 2md:hidden">
